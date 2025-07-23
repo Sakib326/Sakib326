@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm S. M. Sakib
+# Hi there! 👋 I'm S. M Sakib
 
 <div align="center">
   
@@ -17,7 +17,7 @@ I'm a passionate **Software Developer** from 🇧🇩 **Bangladesh**, dedicated 
 const sakib = {
     pronouns: "he" | "him",
     location: "Dhaka, Bangladesh",
-    code: ["JavaScript", "Python", "Java", "C"],
+    code: ["JavaScript", "Python", "PHP", "Java", "C"],
     askMeAbout: ["web dev", "tech", "app dev", "problem solving"],
     technologies: {
         frontEnd: {
